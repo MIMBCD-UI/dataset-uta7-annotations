@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta7-annotations/web/index.html'" />
 
-# UTA7: Medical Imaging Annotations
+# UTA7: Medical Imaging Annotations Dataset
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
