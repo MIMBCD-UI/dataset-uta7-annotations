@@ -1,0 +1,88 @@
+{
+    "rawData": {
+        "studyId": "829de0c1-5e7a-4b9a-978a-537922a46b35",
+        "modality": "MG",
+        "stacks": [
+            {
+                "seriesDescription": "MG",
+                "stackId": "2527",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8549/instances/eb3d2db3-3cdb83f3-0a21922e-b88c0338-f6874594/file"
+                ],
+                "seriesIndex": 0,
+                "currentImageIdIndex": 0,
+                "viewPosition": "CC",
+                "imageSide": "R",
+                "probe": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1509.7638483965013,
+                                "y": 1063.399416909621,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "2527",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8549/instances/be4bb2ad-ba13f1cc-f12d5f44-8df109b0-db03cb61/file"
+                ],
+                "seriesIndex": 1,
+                "currentImageIdIndex": 0,
+                "viewPosition": "MLO",
+                "imageSide": "R",
+                "probe": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1327.5145772594753,
+                                "y": 1531.5626822157435,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1367.6428571428573,
+                                "y": 1307.5131195335277,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1337.5466472303208,
+                                "y": 1280.7609329446063,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    }
+                ]
+            }
+        ],
+        "currentStack": 1
+    },
+    "path": "829de0c1-5e7a-4b9a-978a-537922a46b35.json"
+}
